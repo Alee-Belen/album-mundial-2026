@@ -18,6 +18,7 @@ function StickerCard(props) {
         <div
             style={{backgroundColor: color, padding: "15px", margin: "10px", borderRadius: "10px", color: "black"}}
             className="sticker-card"
+            onClick={props.onStatusChange}
         >
             <h3>{props.number}</h3>
 

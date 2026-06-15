@@ -14,6 +14,11 @@ Utilidad: útil.
 
 Etapa 3
 
+Prompt: "Cambiar el estado de una figurita usando useState y onClick."
+Resultado: Funciona.
+Utilidad: útil.
+
+
 
 Etapa 4
 
