@@ -7,6 +7,10 @@ Utilidad: útil.
 
 Etapa 2
 
+Prompt: "Crear componente "StickerCard" con props y colores según el estado."
+Resultado: Funciona.
+Utilidad: útil.
+
 
 Etapa 3
 
